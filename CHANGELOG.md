@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/vonage-notification-channel/compare/v3.3.1...3.x)
+## [Unreleased](https://github.com/laravel/vonage-notification-channel/compare/v3.3.2...3.x)
+
+## [v3.3.2](https://github.com/laravel/vonage-notification-channel/compare/v3.3.1...v3.3.2) - 2025-01-24
+
+* Supports Laravel 12 by [@crynobone](https://github.com/crynobone) in https://github.com/laravel/vonage-notification-channel/pull/91
 
 ## [v3.3.1](https://github.com/laravel/vonage-notification-channel/compare/v3.3.0...v3.3.1) - 2024-12-06
 
