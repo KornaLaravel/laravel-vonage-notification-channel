@@ -1,6 +1,16 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/vonage-notification-channel/compare/v3.3.4...3.x)
+## [Unreleased](https://github.com/laravel/vonage-notification-channel/compare/v3.3.5...3.x)
+
+## [v3.3.5](https://github.com/laravel/vonage-notification-channel/compare/v3.3.4...v3.3.5) - 2026-07-25
+
+* Pin GitHub Actions to commit SHAs and add Dependabot config by [@joetannenbaum](https://github.com/joetannenbaum) in https://github.com/laravel/vonage-notification-channel/pull/94
+* Bump shivammathur/setup-php from 2.37.0 to 2.37.1 in the github-actions group by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/vonage-notification-channel/pull/95
+* Add Dependabot cooldown of 5 days by [@nunomaduro](https://github.com/nunomaduro) in https://github.com/laravel/vonage-notification-channel/pull/96
+* Enable Dependabot auto-merge by [@nunomaduro](https://github.com/nunomaduro) in https://github.com/laravel/vonage-notification-channel/pull/97
+* Bump the github-actions group with 2 updates by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/vonage-notification-channel/pull/98
+* Bump actions/checkout from 6.0.3 to 7.0.0 in the github-actions group by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/vonage-notification-channel/pull/99
+* Bump actions/checkout from 7.0.0 to 7.0.1 in the github-actions group by [@dependabot](https://github.com/dependabot)[bot] in https://github.com/laravel/vonage-notification-channel/pull/100
 
 ## [v3.3.4](https://github.com/laravel/vonage-notification-channel/compare/v3.3.3...v3.3.4) - 2026-02-24
 
